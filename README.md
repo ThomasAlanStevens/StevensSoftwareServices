@@ -1,8 +1,6 @@
-# StevensSoftwareServices: [Site Here](https://stevenssoftwareservices.com/)
+# [StevensSoftwareServices](https://stevenssoftwareservices.com/)
  
-My portfolio website that contains many of my projects that I have worked on. This includes personal and freelance projects.
-
-**Link To Profile:** https://www.codewars.com/users/ThomasAlanStevens
+My portfolio website that contains many of my projects that I have worked on. This includes personal projects and freelance projects.
 
 ## How It's Made:
 
@@ -23,7 +21,7 @@ My portfolio website that contains many of my projects that I have worked on. Th
     <img align="center" alt="Express" width="9%" src="/img/php.png">
 </section>
 
-I use a variety of different technologies and resources to create this site and the many projects contained inside it. The main tools are HTML, CSS, and JS. However I will use the tools and technologies that I feel I will be able to do the best work with.
+I use a variety of different technologies and resources to create this site and the many projects contained inside it. The main tools are HTML, CSS, and JS. However I will use the tools, technologies, and frameworks that I feel I will be able to create the best work with.
 
 ## Optimizations
 
@@ -31,4 +29,4 @@ I consistently refactor my code as I learn different techniques and methods in o
 
 ## Lessons Learned:
 
-There are a vast variety of different resources with many different prosa and cons that come with each. In order to create the best projects I can, I must continue to push myself to continue to learn how to use these resources so that they become tools I will be able to rely on in the future. Always keep learning!
+There are a vast variety of different resources with many different pros and cons that come with each. In order to create the best projects I can, I must continue to push myself to continue to learn how to use these resources so that they become tools I will be able to rely on in the future. Always keep learning!
